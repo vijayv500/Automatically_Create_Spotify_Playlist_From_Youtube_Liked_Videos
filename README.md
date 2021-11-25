@@ -7,9 +7,10 @@ This script identifies music videos in your Youtube's LIKED section and automati
 
 <img src="Youtube_API.png"/>
 
-* Link to the spotify playlist I created from my Youtube likes: https://open.spotify.com/playlist/4lUP5ovngkEBPhzlsLLHGj?si=c216fc1732164846
+* Link to the spotify playlist (From Youtube With Love) I created from my Youtube likes: https://open.spotify.com/playlist/4lUP5ovngkEBPhzlsLLHGj?si=c216fc1732164846
 
-<video src='Spotify.mov'/>
 
+
+https://user-images.githubusercontent.com/83641668/143448010-989f3910-2a7c-4965-b00f-78eb587116f7.mov
 
 
